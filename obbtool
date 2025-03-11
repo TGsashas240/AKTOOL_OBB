@@ -1,0 +1,3 @@
+cd AKTOOL_OBB
+chmod +x *
+./obb
